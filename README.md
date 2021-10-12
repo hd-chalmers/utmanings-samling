@@ -8,8 +8,8 @@ kunna vinna en tröja eller plantera ett träd!
 |1. [Utmaningar](#utmaningar)|
 |2. [Komma igång med kodning](#komma-igång-med-kodning)|
 |3. [Rekommenderade editorer](#rekommenderade-text-editorer-eller-ides)|
-|4. [Vad är Hacktoberfest?](#vad-är-hacktoberfest?)|
-|5. [Hur deltar man i hacktoberfest?](#hur-deltar-man-i-hacktoberfest?)|
+|4. [Vad är Hacktoberfest?](#vad-är-hacktoberfest)|
+|5. [Hur deltar man i hacktoberfest?](#hur-deltar-man-i-hacktoberfest)|
 
 ## Utmaningar
 Om du är ny till programmering så vill du nog ta en titt i länkarna under [Komma igång med kodning](#komma-igång-med-kodning). Annars 
