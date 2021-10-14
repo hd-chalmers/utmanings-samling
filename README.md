@@ -17,6 +17,7 @@ Om du är ny till programmering så vill du nog ta en titt i länkarna under [Ko
 
 - [FizzBuzz (+ dumheter?)](https://github.com/hd-chalmers/fizzbuzz-utmaning/blob/main/README.md)
 - [Hello world med en tom main metod pussel](https://github.com/hd-chalmers/hello-world-med-tom-main-pussel/blob/main/README.md)
+- [Addition utan + och - operatorerna pussel](https://github.com/hd-chalmers/addition-utan-operator-pussel/blob/main/README.md)
 - *Mer kan tillkomma*
 
 Om man vill ha mer programmerings problem så kan man alltid hitta några på [Kattis](https://open.kattis.com/).
