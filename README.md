@@ -16,6 +16,7 @@ Om du är ny till programmering så vill du nog ta en titt i länkarna under [Ko
 är det bara att klicka på länkarna nedan:
 
 - [FizzBuzz (+ dumheter?)](https://github.com/hd-chalmers/fizzbuzz-utmaning/blob/main/README.md)
+- [Hello world med en tom main metod pussel](https://github.com/hd-chalmers/hello-world-med-tom-main-pussel/blob/main/README.md)
 - *Mer kan tillkomma*
 
 ## Komma igång med kodning
