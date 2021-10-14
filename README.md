@@ -19,6 +19,8 @@ Om du är ny till programmering så vill du nog ta en titt i länkarna under [Ko
 - [Hello world med en tom main metod pussel](https://github.com/hd-chalmers/hello-world-med-tom-main-pussel/blob/main/README.md)
 - *Mer kan tillkomma*
 
+Om man vill ha mer programmerings problem så kan man alltid hitta några på [Kattis](https://open.kattis.com/).
+
 ## Komma igång med kodning
 Här finns det några bra sajter för att hjälpa dig koda. Men om du inte vet vilket språk så kan man utgå från sitt 
 utbildningsplan, exempelvis har Data studenter programmeringsspråket C i läsperiod 2 och sedan går över till Java år 
